@@ -44,23 +44,18 @@ Roll your luck! This fun and interactive React component simulates the roll of a
 - Optional: TailwindCSS or CSS Modules for styling
 
 ---
-💡 Bonus Ideas
-Add dice roll animations for extra flair.
+## 💡 Bonus Ideas
 
-Replace numbers with dice face emojis (⚀ ⚁ ⚂ ⚃ ⚄ ⚅).
+- Add dice roll animations for extra flair.
+- Replace numbers with dice face emojis (⚀ ⚁ ⚂ ⚃ ⚄ ⚅).
+- Track previous rolls or show a history log.
+- Add dark/light toggle for styling.
 
-Track previous rolls or show a history log.
+## 🧪 Want a challenge?
 
-Add dark/light toggle for styling.
 
-🧪 Want a challenge?
-Try extending it:
 
-🎮 Make it 2-player.
-
-🧠 Keep track of average rolls or total points.
-
-🎉 Add sounds, animations, or confetti on max roll!
-
-Happy Rolling! 🎲✨
-— Powered by React & Imagination
+- 🎮 Make it 2-player.
+- 🧠 Keep track of average rolls or total points.
+- 🎉 Add sounds, animations, or confetti on max roll!
+- Happy Rolling! 🎲✨
