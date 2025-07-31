@@ -2,7 +2,7 @@
 
 Roll your luck! This fun and interactive React component simulates the roll of a classic 6-sided dice.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://your-live-demo-link.netlify.app/) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://nishi-dice-roll.netlify.app/) 
 
 ---
 
